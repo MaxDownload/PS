@@ -1,1 +1,0 @@
-Add-VpnConnection -Name "Vomar" -ServerAddress "vomar-rtppcrvtk.dynamic-m.com" -TunnelType "L2tp" -L2tpPsk "tanktraders"  -EncryptionLevel "Required" -AuthenticationMethod Pap -UseWinlogonCredential -SplitTunneling -AllUserConnection -RememberCredential -PassThr
